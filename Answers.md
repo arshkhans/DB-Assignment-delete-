@@ -5,3 +5,6 @@
 
 2. How could you ensure that each product in the "Product" table has a valid category assigned to it?
 - Make they foregin key not null, which ensures that each product in the "Product" table has a valid category assigned to it.
+
+3. Create schema in any Database script or any ORM (Object Relational Mapping).
+- Node.js, sequlize ORM, databse: postgresql
